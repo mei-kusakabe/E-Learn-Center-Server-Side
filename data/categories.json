@@ -1,34 +1,50 @@
 [
     {
         "id": "01",
-        "name": "Breaking News"
+        "name": "Programming Languages",
+        "title": "Learn Python Programming Beginner",
+        "logo": "https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
+        "description": "",
+        "price": "4000 Tk."
     },
     {
         "id": "02",
-        "name": "Regular News"
+        "name": "Data Science and Machine Learning",
+        "title": "Statistics Data Science and Business Analysis",
+        "logo": "https://img.freepik.com/premium-vector/young-businessman-big-screen-controls-data-analysis-statistics-business-statements-analytics-dashboard-business-analysis-concept-flat-style-cartoon-illustration-vector_610956-1215.jpg?w=996",
+        "description": "",
+        "price": "5000 Tk."
     },
     {
         "id": "03",
-        "name": "International News"
+        "name": "Design",
+        "title": "Learn Adobe CC with our Masterclass",
+        "logo": "https://online-courses.club/wp-content/uploads/2019/02/Adobe-CC-Masterclass-Photoshop-Illustrator-XD-InDesign-Udemy.jpg",
+        "description": "",
+        "price": "5000 Tk."
     },
     {
         "id": "04",
-        "name": "Sports"
+        "name": "Development",
+        "title": "Software Development from A-Z for Beginner",
+        "logo": "https://tuataras.net/wp-content/uploads/Person-programming.png",
+        "description": "",
+        "price": "10000 Tk."
     },
     {
         "id": "05",
-        "name": "Entertainment"
+        "name": "Photography",
+        "title": "Photography Courses for Beginner",
+        "logo": "https://www.pearlxstudio.com/website/images/img/Professional-Photography-Banner.webp",
+        "description": "",
+        "price": "15000 Tk"
     },
     {
         "id": "06",
-        "name": "Culture"
-    },
-    {
-        "id": "07",
-        "name": "Arts"
-    },
-    {
-        "id": "08",
-        "name": "All News"
+        "name": "English",
+        "title": "Learn English with our Masterclass",
+        "logo": "https://a.storyblok.com/f/104771/4784x3189/41c2e36a3e/home-hero-desktop-4784x3189-v5a.jpg/m/4784x3189/filters:quality(90)",
+        "description": "",
+        "price": "3000 Tk"
     }
 ]
