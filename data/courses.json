@@ -32,7 +32,7 @@
         "name": "Development",
         "title": "Software Development from A-Z for Beginner",
         "logo": "https://tuataras.net/wp-content/uploads/Person-programming.png",
-        "description": "",
+        "description": "In this course you will 1.Learn to build applications as a software engineer,2.Learn about Object Oriented Programming and agile development,3.Learn how to implement popular computer science algorithms, 4.Get acquainted with machine learning",
         "price": "10000 Tk."
     },
     {
@@ -41,7 +41,7 @@
         "name": "Photography",
         "title": "Photography Courses for Beginner",
         "logo": "https://www.pearlxstudio.com/website/images/img/Professional-Photography-Banner.webp",
-        "description": "In this course you will 1.Learn to build applications as a software engineer,2.Learn about Object Oriented Programming and agile development,3.Learn how to implement popular computer science algorithms, 4.Get acquainted with machine learning",
+        "description": "In this course you will 1.Learn to basic about photography,2.Videography 3. Necessity to explore different dimentions",
         "price": "15000 Tk"
     },
     {
